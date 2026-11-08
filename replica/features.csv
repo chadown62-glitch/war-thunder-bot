@@ -1,0 +1,48 @@
+feature,area,priority,original,clone,notes
+Open-world free roam with no loading between zones,world,must,yes,no,Côte d'Azur Menton to Fayence at ~1:7 scale
+Arcade-sim car handling on asphalt gravel and snow,driving,must,yes,no,use engine vehicle system
+Prologue showing each biome then starter car pick,onboarding,must,yes,no,Menton / Corniche / Estérel / Turini snow
+Event markers in the world with event card,events,must,yes,no,S07
+Road circuit and sprint races vs AI,events,must,yes,no,
+Dirt and cross-country races,events,must,yes,no,Estérel and Caussols plateau
+Race HUD with position laps checkpoints,racing,must,yes,no,S09
+Rewind,racing,must,yes,no,
+AI difficulty setting with reward multiplier,racing,must,yes,no,
+Results with XP credits and records,progression,must,yes,no,S10
+Garage of owned cars,cars,must,yes,no,
+Performance upgrades with class / PI rating,cars,must,yes,no,class letters to be renamed
+Car dealer to buy new cars,cars,must,yes,no,fictional makes only
+World map with filters and nav route,world,must,yes,no,S06
+Day / night cycle,world,must,yes,no,
+Settings: controls remap aids graphics audio,settings,must,yes,no,
+Fog of war and road discovery %,world,should,yes,no,
+Player houses with fast travel and perks,world,should,yes,no,8 in original
+Four seasons with weather,world,should,yes,no,snow on Col de Turini in winter
+Year-round snow in the high country,world,should,yes,no,
+Col duel one-on-one on mountain roads,events,should,yes,no,original calls them touge battles
+Drag races,events,should,yes,no,fictional airfield
+Time attack circuits in the open world,events,should,yes,no,
+Skill chains (drift near miss air),driving,should,yes,no,
+Speed traps speed zones danger signs,collectibles,should,yes,no,
+Aftermarket used cars parked in the world,cars,should,yes,no,test drive then buy at discount
+Tuning (gearing suspension etc),cars,should,yes,no,
+Livery editor with layers,cars,should,yes,no,
+Progression journal by zone and discipline,progression,should,yes,no,S18
+Car proximity radar,driving,should,yes,no,
+Weekly seasonal playlist,live,could,yes,no,4-week series
+Car mastery perk tree,cars,could,yes,no,
+Photo mode,social,could,yes,no,
+Estate building on plots in the world,world,could,yes,no,
+Customisable garage showroom,cars,could,yes,no,
+Obstacle-course events,events,could,yes,no,original calls them Horizon Rush
+Radio with stations,audio,could,yes,no,own or royalty-free music only
+Shared online world,online,could,yes,no,big project on its own
+Car meets and drag meets online,online,could,yes,no,
+Share and download liveries and tunes,online,could,yes,no,
+Licensed real cars and makes,cars,skip,yes,skip,needs licences from each manufacturer; use fictional cars
+Licensed music radio,audio,skip,yes,skip,licensed catalogue
+Festival name branding characters UI art,brand,skip,yes,skip,the original's identity; rebrand
+Real brand partnerships in the world,world,skip,yes,skip,partner deals
+Monaco Grand Prix and Monte-Carlo Rally branding,world,skip,no,skip,roads ok names and logos not
+Large online playerbase,online,skip,yes,skip,the network is not a feature
+Cross-play on consoles at launch,platform,skip,yes,skip,platform deals; PC first
